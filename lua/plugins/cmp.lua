@@ -14,6 +14,8 @@ return {
         behavior = cmp.ConfirmBehavior.Replace,
         select = true,
       }),
+      ["<TAB>"] = {},
+      ["<S-TAB>"] = {},
     })
 
     return opts
