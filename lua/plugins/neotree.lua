@@ -10,5 +10,8 @@ return {
         end,
       },
     },
+    window = {
+      position = "right",
+    },
   },
 }
